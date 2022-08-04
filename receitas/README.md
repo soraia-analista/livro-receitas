@@ -2,5 +2,7 @@
 
 Este é um livro de receitas teste, criado para um repositório git. :wave::wave:
 
-- Strogonoff de frango
+- Strogonoff de frango;
+- Figo em calda;
+
 
